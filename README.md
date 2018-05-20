@@ -1,5 +1,5 @@
-allow2 for openwrt
-==================
+Allow2 modules for OpenWRT
+==========================
 
 This is a first build demonstrating one way to incorporate Allow2 into a router firmware.
 
@@ -38,7 +38,7 @@ To use the allow2 packages
 2.  clone this repo
 
 ```sh
-    git clone https://github.com/Allow2CEO/allow2openwrt.git
+    git clone https://github.com/Allow2/Allow2OpenWRT.git
 ```
 
     into a suitable location outside of the openwrt home directory.
